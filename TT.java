@@ -17,9 +17,5 @@ public class TT {
 
         System.out.println(d.compareTo(с));
         System.out.println(d.compareTo(с));
-
     }
-
-
-
 }
