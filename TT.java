@@ -2,7 +2,7 @@ package Time;
 import java.util.Date;
 public class TT {
     public static void main(String[] args) {
-        // СМЕЩЕНИЕ
+      
         Date d = new Date();
         int i = d.getTimezoneOffset();
         System.out.println(i);
